@@ -55,8 +55,8 @@ pip install -r requirements.txt
 If you use Anaconda or Miniconda:
 
 ```bash
-conda create -n mlvalidation python=3.9
-conda activate mlvalidation
+conda create -n noluckymodels python=3.9
+conda activate noluckymodels
 pip install -r requirements.txt
 ```
 
