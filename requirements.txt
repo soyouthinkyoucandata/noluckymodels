@@ -1,0 +1,30 @@
+# So You Think You Can Data? - Model Validation Course
+# Core requirements
+
+# Data manipulation
+numpy>=1.20.0
+pandas>=1.3.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Notebook environment
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Statistical analysis
+scipy>=1.7.0
+statsmodels>=0.12.0
+
+# Additional visualization
+plotly>=5.3.0
+
+# Network analysis (for graph-based validation)
+networkx>=2.6.0
+
+# Time series analysis
+prophet>=1.0.0
