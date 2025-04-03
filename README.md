@@ -20,7 +20,7 @@ Before starting this course, you should have:
 ### 1. Clone or Download this Repository
 
 ```bash
-git clone https://github.com/username/ml-validation-course.git
+git clone https://github.com/soyouthinkyoucandata/noluckymodels/ml-validation-course.git
 cd ml-validation-course
 ```
 
