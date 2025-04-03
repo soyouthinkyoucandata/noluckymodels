@@ -84,7 +84,7 @@ Before proceeding with the setup, ensure you have the following:
 
 1. Clone or download the course repository:
    ```bash
-   git clone https://github.com/soyouthinkyoucandta/noluckymodels.git
+   git clone https://github.com/soyouthinkyoucandata/noluckymodels.git
    cd noluckymodels
    ```
 
@@ -103,8 +103,8 @@ Before proceeding with the setup, ensure you have the following:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/username/ml-validation-course.git
-   cd ml-validation-course
+   git clone https://github.com/soyouthinkyoucandata/noluckymodels.git
+   cd noluckymodels
    ```
 
 2. Install the required packages:
@@ -122,7 +122,7 @@ Before proceeding with the setup, ensure you have the following:
 
 2. Clone or download the repository:
    ```bash
-   git clone https://github.com/soyouthinkyoucandta/noluckymodels.git
+   git clone https://github.com/soyouthinkyoucandata/noluckymodels.git
    cd noluckymodels
    ```
 
