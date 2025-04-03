@@ -21,7 +21,7 @@ Before starting this course, you should have:
 
 ```bash
 git clone https://github.com/soyouthinkyoucandata/noluckymodels.git
-cd ml-validation-course
+cd noluckymodels
 ```
 
 Or download and extract the ZIP file from the course resources.
